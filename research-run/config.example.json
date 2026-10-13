@@ -1,0 +1,4 @@
+{
+  "runs_root": "<absolute path to your writable research-runs folder>",
+  "runs_root_wsl": "<Linux path to the same folder, if applicable>"
+}

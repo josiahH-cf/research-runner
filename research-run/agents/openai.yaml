@@ -1,0 +1,6 @@
+interface:
+  display_name: "Research Run"
+  short_description: "Clarify, research within a token cap, then create an HTML report"
+  default_prompt: "Use $research-run to start or continue evidence-based research."
+policy:
+  allow_implicit_invocation: true
