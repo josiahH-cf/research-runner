@@ -38,6 +38,22 @@ The instructions protect a report reserve and direct research to stop before
 spending it. This is budget accounting and stop guidance, not an enforced token
 or monetary ceiling; agent compliance and tool capability still matter.
 
+## Full examples
+
+Two complete fictional pieces illustrate outputs from separate Research Runner
+runs. Each copy includes its reported model, review method, usage qualifications
+and factual boundaries. They are examples of the workflow, not a matched model
+benchmark or evidence of consciousness, human experience or private reasoning.
+
+- [Slack Water](examples/slack-water.md), attributed in its source report to a
+  Claude Cowork run.
+- [The House That Answered Back](examples/the-house-that-answered-back.md),
+  attributed in its source report to a Codex Desktop run.
+
+Only the complete fiction and reader-facing qualification notes are shared.
+The original reports, research requests and private operational records are
+excluded.
+
 ## Provenance, privacy and license
 
 This is a distribution snapshot of Research Run 1.0.1. Maintenance remains with
